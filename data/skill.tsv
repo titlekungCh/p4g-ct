@@ -67,10 +67,10 @@ id	idh	name	tag
 65	0041	Eternal White	
 66	0042	God's Judgment	
 67	0043	Samsara	
-68	0044	Blank	
-69	0045	Blank	
-70	0046	Blank	
-71	0047	Blank	
+68	0044	[HF] Fire Breaker	
+69	0045	[HF] Ice Breaker	
+70	0046	[HF] Wind Breaker	
+71	0047	[HF] Lightning Breaker	
 72	0048	Mudo	
 73	0049	Mudoon	
 74	004A	Mamudo	
@@ -182,8 +182,8 @@ id	idh	name	tag
 180	00B4	Charge Support	
 181	00B5	HP Recovery Support	
 182	00B6	SP Recovery Support	
-183	00B7	Blank	
-184	00B8	Blank	
+183	00B7	UNK Item 30%HP Salvation	
+184	00B8	UNK Item 30%HP Reviv-All	
 185	00B9	Blank	
 186	00BA	Blank	
 187	00BB	Blank	
@@ -253,11 +253,11 @@ id	idh	name	tag
 251	00FB	Kamui Miracle	
 252	00FC	Shield of Justice	
 253	00FD	Complete Analysis	
-254	00FE	Blank	
+254	00FE	UNK Skill	
 255	00FF	? ? ? ? ?	
-256	0100	100	
-257	0101	101	
-258	0102	102	
+256	0100	All-Out 1	
+257	0101	All-Out 2	
+258	0102	All-Out 3	
 259	0103	Waste Money	
 260	0104	Yosuke Strike	
 261	0105	Galactic Punt	
@@ -301,53 +301,53 @@ id	idh	name	tag
 299	012B	Snuff Soul	
 300	012C	Chewing Soul	
 301	012D	Precious Egg	
-302	012E	12E	
-303	012F	12F	
-304	0130	130	
-305	0131	131	
-306	0132	132	
-307	0133	133	
-308	0134	134	
-309	0135	135	
-310	0136	136	
-311	0137	137	
-312	0138	138	
-313	0139	139	
-314	013A	13A	
-315	013B	13B	
-316	013C	13C	
-317	013D	13D	
-318	013E	13E	
-319	013F	13F	
-320	0140	140	
-321	0141	141	
-322	0142	142	
-323	0143	143	
-324	0144	144	
-325	0145	145	
-326	0146	146	
-327	0147	147	
-328	0148	148	
-329	0149	149	
-330	014A	14A	
-331	014B	14B	
-332	014C	14C	
-333	014D	14D	
-334	014E	14E	
-335	014F	14F	
-336	0150	150	
-337	0151	151	
-338	0152	152	
-339	0153	153	
-340	0154	154	
-341	0155	155	
-342	0156	156	
-343	0157	157	
-344	0158	158	
-345	0159	159	
-346	015A	15A	
-347	015B	15B	
-348	015C	15C	
+302	012E	Revival Bead	
+303	012F	Balm of Life	
+304	0130	Royal jelly	
+305	0131	Dokugami Tea	
+306	0132	Mouthwash	
+307	0133	Sedative	
+308	0134	Stimulant	
+309	0135	Blank	
+310	0136	Vanish Ball	
+311	0137	SOMA	
+312	0138	Amrita Soda	
+313	0139	Hiranya	
+314	013A	Muscle Drink	
+315	013B	Odd Morsel	
+316	013C	Rancid Gravy	
+317	013D	Blank	
+318	013E	Magic Mirror	
+319	013F	Physical Mirror	
+320	0140	Uplifting Radio	
+321	0141	Olympic tape	
+322	0142	Diamond Shield	
+323	0143	Magic Mirror	
+324	0144	Physical Shield	
+325	0145	Firecracker	
+326	0146	Sanzun Tama	
+327	0147	Ice Cube	
+328	0148	Dry Ice	
+329	0149	Pinwheel	
+330	014A	Yashichi	
+331	014B	Ball Lightning	
+332	014C	Tesla Coil	
+333	014D	Smart Bomb	
+334	014E	Segaki Rice	
+335	014F	Curse Paper	
+336	0150	Hell Magatama	
+337	0151	Cyclone Magatama	
+338	0152	Frost Magatama	
+339	0153	Arc Magatama	
+340	0154	Blank	
+341	0155	Full HP	
+342	0156	Full SP	
+343	0157	100 HP	
+344	0158	10 HP	
+345	0159	10 SP	
+346	015A	5 SP	
+347	015B	25 HP	
+348	015C	50 HP	
 349	015D	Junes Bomber	
 350	015E	Twin Dragons	
 351	015F	Beauty & The Beast	
@@ -395,43 +395,43 @@ id	idh	name	tag
 393	0189	Oho Ikazuchi	
 394	018A	Megidolaon	
 395	018B	Thousand Curses	
-396	018C	18C	
-397	018D	18D	
-398	018E	18E	
-399	018F	18F	
-400	0190	190	
-401	0191	191	
-402	0192	192	
-403	0193	193	
-404	0194	194	
-405	0195	195	
-406	0196	196	
-407	0197	197	
-408	0198	198	
-409	0199	199	
-410	019A	19A	
-411	019B	19B	
-412	019C	19C	
-413	019D	19D	
-414	019E	19E	
-415	019F	19F	
-416	01A0	1A0	
-417	01A1	1A1	
-418	01A2	1A2	
-419	01A3	1A3	
-420	01A4	1A4	
-421	01A5	1A5	
-422	01A6	1A6	
-423	01A7	1A7	
-424	01A8	1A8	
-425	01A9	1A9	
-426	01AA	1AA	
-427	01AB	1AB	
-428	01AC	1AC	
-429	01AD	1AD	
-430	01AE	1AE	
-431	01AF	1AF	
-432	01B0	1B0	
+396	018C	Blank	
+397	018D	Myriad Truths	
+398	018E	Cross Slash	
+399	018F	Fire of Sinai	
+400	0190	Shining Arrows	
+401	0191	Magatsu Mandala	
+402	0192	Armageddon	
+403	0193	God's Malice	
+404	0194	Andalucia	
+405	0195	Red Capote	
+406	0196	Conquest's Bow	
+407	0197	Death's Scythe	
+408	0198	God's Fire	
+409	0199	God's Blessing	
+410	019A	God's Word	
+411	019B	God's Blade	
+412	019C	Kouha	
+413	019D	Kouga	
+414	019E	Kougaon	
+415	019F	Makouha	
+416	01A0	Makouga	
+417	01A1	Makougaon	
+418	01A2	Eiha	
+419	01A3	Eiga	
+420	01A4	Eigaon	
+421	01A5	Maeiha	
+422	01A6	Maeiga	
+423	01A7	Maeigaon	
+424	01A8	Barong Dance	
+425	01A9	Gae Bulg	
+426	01AA	Laevateinn	
+427	01AB	Gungnir	
+428	01AC	Cadenza	
+429	01AD	Door of Hades	
+430	01AE	Oratorio	
+431	01AF	Neo Cadenza	
+432	01B0	Akasha Arts 2.0	
 433	01B1	1B1	
 434	01B2	1B2	
 435	01B3	1B3	
@@ -452,25 +452,25 @@ id	idh	name	tag
 450	01C2	Frigid Dotaku	
 451	01C3	Gale Dotaku	
 452	01C4	Bolt Dotaku	
-453	01C5	1C5	
-454	01C6	1C6	
-455	01C7	1C7	
-456	01C8	1C8	
-457	01C9	1C9	
-458	01CA	1CA	
-459	01CB	1CB	
-460	01CC	1CC	
-461	01CD	1CD	
-462	01CE	1CE	
-463	01CF	1CF	
-464	01D0	1D0	
-465	01D1	1D1	
-466	01D2	1D2	
-467	01D3	1D3	
-468	01D4	1D4	
-469	01D5	1D5	
-470	01D6	1D6	
-471	01D7	1D7	
+453	01C5	25 SP	
+454	01C6	50 SP	
+455	01C7	200 HP	
+456	01C8	Blank	
+457	01C9	Blank	
+458	01CA	Blank	
+459	01CB	Blank	
+460	01CC	Blank	
+461	01CD	Blank	
+462	01CE	Blank	
+463	01CF	Blank	
+464	01D0	Blank	
+465	01D1	Blank	
+466	01D2	Blank	
+467	01D3	Blank	
+468	01D4	Blank	
+469	01D5	Blank	
+470	01D6	Blank	
+471	01D7	Blank	
 472	01D8	Resist Physical	
 473	01D9	Null Physical	
 474	01DA	Repel Physical	
